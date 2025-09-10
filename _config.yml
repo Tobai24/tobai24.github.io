@@ -19,14 +19,13 @@ timezone:  Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-title: "Tobi"
+title: "Oluwatobi Iyanuoluwa Akinmuleya MD"
 
 tagline: "
   <div style='padding: 20px; text-align: center; line-height: 1.5;'>
-    <div style='font-size: 1.5em; font-weight: 600;'>Welcome to my blog!</div>
-    <div style='margin-top: 10px; font-size: 1.2em;'>
-      I'm Dr. Oluwatobi Iyanuoluwa<br>
-      Akinmuleya, a medical doctor passionate about AI<br>
+    <div style='font-size: 1.2em; font-weight: 600;'>Welcome to my blog!</div>
+    <div style='margin-top: 10px; font-size: 1.1em;'>
+      I'm Tobi, a medical doctor passionate about AI<br>
       and quantitative imaging in nuclear medicine.
     </div>
   </div>
