@@ -14,13 +14,11 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 body {
   font-family: 'LXGW WenKai TC', 'Poppins', sans-serif;
-  line-height: 1.7;
 }
 
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'LXGW WenKai TC', 'Poppins', sans-serif;
-  font-weight: 600;
 }
 
 code, pre {
