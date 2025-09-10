@@ -5,10 +5,8 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-#baseurl: '/heidloffblog'
 baseurl: ""
 
-#url: 'https://nheidloff.github.io/heidloffblog'
 url: "https://tobai24.github.io/"
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
@@ -17,16 +15,25 @@ url: "https://tobai24.github.io/"
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Berlin
+timezone:  Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-title: Oluwatobi Iyanuouwa Akinmuleya
+title: "Tobi"
 
-tagline: "<div>Welcome to my blog!</div><div style='padding-bottom: 10px;'></div><div>I'm Dr. Akinmuleya Oluwatobi Iyanuoluwa, a medical doctor passionate about AI and quantitative imaging in nuclear medicine.</div><div style='padding-bottom: 10px;'></div><div>I explore AI applications in medical imaging, theranostics, and precision medicine, sharing insights and tutorials every week.</div><div style='padding-bottom: 10px;'></div><div>Follow along as I simplify complex topics in AI and nuclear medicine for enthusiasts and professionals alike.</div>"
+tagline: "
+  <div style='padding: 20px; text-align: center; line-height: 1.5;'>
+    <div style='font-size: 1.5em; font-weight: 600;'>Welcome to my blog!</div>
+    <div style='margin-top: 10px; font-size: 1.2em;'>
+      I'm Dr. Oluwatobi Iyanuoluwa<br>
+      Akinmuleya, a medical doctor passionate about AI<br>
+      and quantitative imaging in nuclear medicine.
+    </div>
+  </div>
+"
 
 description: >-
-  Blog by Dr. Akinmuleya Oluwatobi Iyanuoluwa, a medical doctor. 
+  Blog by Dr. Akinmuleya Oluwatobi Iyanuoluwa. 
   Sharing weekly insights on quantitative imaging, AI applications in nuclear medicine, 
   theranostics, and precision medicine in a simple, practical, and engaging way.
 
@@ -35,9 +42,8 @@ github:
 social:
   name: Akinmuleya Oluwatobi Iyanuouwa
   links:
-    # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/niklasheidloff
-    - https://github.com/nheidloff
+    - https://www.linkedin.com/in/akinmuleya
+    - https://github.com/Tobai24
 
 google_site_verification: # fill in to your verification string
 # ↑ --------------------------
@@ -74,7 +80,7 @@ img_cdn:
 avatar: "/assets/img/4Y7B9422-4.jpeg"
 
 # boolean type, the global switch for ToC in posts.
-toc: true
+toc: false
 
 comments:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
